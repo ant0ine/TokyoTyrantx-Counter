@@ -1,0 +1,11 @@
+Build.PL
+Changes
+lib/TokyoTyrantx/Counter.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/00-load.t
+t/01-count.t
+t/pod-coverage.t
+t/pod.t
